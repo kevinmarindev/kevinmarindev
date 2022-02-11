@@ -1,13 +1,13 @@
 <h1 align="center">Hey there my name is Kevin Marin</h1>
 <h3 align="center">Passionate Software Engineer committed to professional and personal growth.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinmarindev" alt="kevinmarindev" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/jakobma16" target="blank"><img src="https://img.shields.io/twitter/follow/jakobma16?logo=twitter&style=for-the-badge" alt="jakobma16" /></a> </p>
 
 - 📫 How to reach me **kevin.marin7@hotmail.com**
 
-- 📄 Know about my experiences [https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf](https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf)
+- 📄 Find my Resume Here [https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf](https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf)
 
 - ⚡ Fun fact:  **Web Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
 
