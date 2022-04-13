@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jakobma16" target="blank"><img src="https://img.shields.io/twitter/follow/jakobma16?logo=twitter&style=for-the-badge" alt="jakobma16" /></a> </p>
 
-- 👤 My Portfolio: [https://kevinmarindev.github.io/Portfolio/]
+- 👤 My Portfolio: https://kevinmarindev.github.io/Portfolio/
 
 - 📫 How to reach me **kevin.marin7@hotmail.com**
 
