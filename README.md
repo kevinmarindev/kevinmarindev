@@ -11,6 +11,8 @@
 
 - 📄 Find my Resume Here [https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf](https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf)
 
+- Currently working on: Group Project - Project Management App (React, MUI, Firebase) [https://github.com/jdhawks2132/team-e]
+
 - ⚡ Fun fact:  **Web Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
 - 📖 Currently Reading: **The Elegant Universe**
 
