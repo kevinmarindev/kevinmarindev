@@ -1,4 +1,4 @@
-<h1 align="center">Hey there my name is Kevin Marin</h1>
+<h1 align="center">Hey there my name is Jacob Marin</h1>
 <h3 align="center">Passionate Software Engineer committed to professional and personal growth.</h3>
 
 
