@@ -13,7 +13,7 @@
 
 - 💻 Currently working at: Nexrage Studios - React Developer
 
-- ⚡ Fun fact:  **Web Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
+- ⚡ Fun fact:  **Software Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
 - 📖 Currently Reading: **The Elegant Universe**
 
 <h3 align="left">Connect with me:</h3>
