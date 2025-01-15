@@ -8,7 +8,7 @@
 
 - 📄 Find my Resume Here [https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf](https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf)
 
-- 💻 Currently working at: Nexrage Studios - Frontend Developer
+- 💻 Currently working at: Nexrage Studios - Software Developer
 
 - ⚡ Fun fact:  **Software Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
 - 📖 Currently Reading: **The Elegant Universe**
