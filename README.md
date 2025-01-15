@@ -4,7 +4,9 @@
 
 - 👤 My Portfolio: https://kevinmarindev.github.io/Portfolio/
 
-- 📫 How to reach me **kevin.marin7@hotmail.com**
+- 📫 Email: **kevin.marin7@hotmail.com**
+
+- 💼 LinkedIn: [Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
 
 - 📄 Find my Resume Here [https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf](https://kevinmarindev.github.io/Portfolio/resume/Marin%20Kevin%20resume.pdf)
 
