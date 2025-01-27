@@ -1,5 +1,7 @@
 <h1 align="center">Jacob Marin</h1>
 <h3 align="center">Software Developer committed to professional and personal growth.</h3>
+**Software Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
+
 
 
 - 👤 My Portfolio: https://kevinmarindev.github.io/Portfolio/
@@ -12,8 +14,7 @@
 
 - 💻 Currently working at: Nexrage Studios - Software Developer
 
-- ⚡ Fun fact:  **Software Development has taught me that I will never know it all, but one thing is for certain. I know more today than I did yesterday.**
-- 📖 Currently Reading: **The Elegant Universe**
+- 📖 Currently Learning: **Java and S**
 
 
 <h3 align="left">Languages and Tools:</h3>
