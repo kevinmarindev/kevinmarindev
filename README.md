@@ -8,7 +8,7 @@ Software development has taught me that I will never know it all, but one thing 
 
 - 💼 LinkedIn: [Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
 
-- 📄 Find my Resume Here: [Resume](https://github.com/kevinmarindev/Portfolio/blob/main/resume/Jacob-Marin-resume-pdf.pdf)
+- 📄 Find my Resume Here: [Resume](https://kevinmarindev.github.io/Portfolio/resume/Jacob-Marin-resume-pdf.pdf)
 
 - 💻 Currently working at: Nexrage Studios - Software Developer
 
