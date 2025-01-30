@@ -4,7 +4,7 @@ Software development has taught me that I will never know it all, but one thing 
 
 - 👤 My Portfolio: https://kevinmarindev.github.io/Portfolio/
 
-- 📫 Email: **kevin.marin7@hotmail.com**
+- 📫 Email: **kevin.marin777@gmail.com**
 
 - 💼 LinkedIn: [Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
 
