@@ -1,4 +1,4 @@
-<h1 align="center">Jacob Marin</h1>
+<h1 align="center">Kevin Jacob Marin</h1>
 <h3 align="center">Software Developer committed to professional and personal growth.</h3>
 Software development has taught me that I will never know it all, but one thing is certain: I know more today than I did yesterday.
 
@@ -6,7 +6,7 @@ Software development has taught me that I will never know it all, but one thing 
 
 - 📫 Email: **kevin.marin777@gmail.com**
 
-- 💼 LinkedIn: [Kevin Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
+- 💼 LinkedIn: [Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
 
 - 📄 Find my Resume Here: [Resume](https://kevinmarindev.github.io/Portfolio/resume/Jacob-Marin-resume-pdf.pdf)
 
