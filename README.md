@@ -6,7 +6,7 @@ Software development has taught me that I will never know it all, but one thing 
 
 - 📫 Email: **kevin.marin777@gmail.com**
 
-- 💼 LinkedIn: [Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
+- 💼 LinkedIn: [Kevin Jacob Marin](https://www.linkedin.com/in/kevinj-marin/) 
 
 - 📄 Find my Resume Here: [Resume](https://kevinmarindev.github.io/Portfolio/resume/Kevin-Jacob-Marin-resume.pdf)
 
